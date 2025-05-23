@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: April 30, 2025
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Joined postdoc at < a href='https://www.chimica.unipd.it/'> DiSc </a> <a href='https://www.unipd.it/'> UNiPD </a>.
