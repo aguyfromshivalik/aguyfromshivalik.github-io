@@ -192,8 +192,8 @@ exclude:
   - readme_preview/
   - vendor
   - _posts/
-  - _pages/blog.md
-  - _pages/books.md
+  - _pages/blog
+  - _pages/books
   - _pages/repositories
   - _pages/projects
   - _pages/cv
