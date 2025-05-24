@@ -24,4 +24,4 @@ latest_posts:
   limit:  # leave blank to include all the blog posts (write a number for limit=number)
 ---
 
-I am a postdoc at <a href='https://www.chimica.unipd.it/'> Department of Chemical Science </a>, University of Padova, working in the field of reaction dynamics and ML applications in Chemistry. I obtained my PhD in Theoretical Chemistry under the guidance of <a href='http://chemistry.uohyd.ac.in/~sm/'> Prof. Susanta Mahapatra</a> from University of Hyderabad, Telangana, India. Find me on <a href='https://github.com/aguyfromsihvalik/'> GitHub </a>. <a href=''> Click here </a> to know more about my current and past reserch.
+I am a postdoc at <a href='https://www.chimica.unipd.it/'> Department of Chemical Science </a>, University of Padova, working in the field of reaction dynamics and ML applications in Chemistry. I obtained my PhD in Theoretical Chemistry under the guidance of <a href='http://chemistry.uohyd.ac.in/~sm/'> Prof. Susanta Mahapatra</a> from University of Hyderabad, Telangana, India. Find me on <a href='https://github.com/aguyfromsihvalik/'> GitHub </a>. <a href='/research/'> Click here </a> to know more about my current and past reserch.
