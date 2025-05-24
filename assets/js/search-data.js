@@ -61,7 +61,7 @@ ninja.data = [{
           title: 'I have successfully defended my PhD thesis ( Slides ). 🥳',
           description: "",
           section: "News",},{id: "news-i-will-be-starting-my-postdoc-journey-at-disc-in-unipd-italy",
-          title: 'I will be starting my postdoc journey at DiSC in UNiPD , Italy....',
+          title: 'I will be starting my postdoc journey at DiSC in UNiPD, Italy. 🚀...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
