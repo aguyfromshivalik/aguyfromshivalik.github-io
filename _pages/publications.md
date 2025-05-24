@@ -11,7 +11,7 @@ Check <a href='https://scholar.google.com/citations?user=W15sff4AAAAJ&hl=en'> go
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %}> # it is for adding search button to the publication tab
 
 <div class="publications">
 
