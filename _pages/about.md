@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoc at <a href='https://www.chimica.unipd.it/'>DiSC UNiPD</a>.
+subtitle: Postdoc at <a href='https://www.chimica.unipd.it/'>DiSC UNiPD</a> with <a href='https://sites.google.com/view/sergio-rampino/home'> Dr. Sergio Rampino </a>.
 profile:
   align: right
   image: profile_pic.jpg
@@ -24,5 +24,4 @@ latest_posts:
   limit:  # leave blank to include all the blog posts (write a number for limit=number)
 ---
 
-I am a postdoc at Department of Chemical Science, University of Padova. I work in the field of reaction dynamics. I obtained my PhD from University of Hyderabad, Telangana, India
-in Theoretical Chemistry under the guidance of <a href='http://chemistry.uohyd.ac.in/~sm/'> Prof. Susanta Mahapatra</a>.
+I am a postdoc at <a href='https://www.chimica.unipd.it/'> Department of Chemical Science </a>, University of Padova. I work in the field of reaction dynamics. I obtained my PhD in Theoretical Chemistry under the guidance of <a href='http://chemistry.uohyd.ac.in/~sm/'> Prof. Susanta Mahapatra</a> from University of Hyderabad, Telangana, India.
