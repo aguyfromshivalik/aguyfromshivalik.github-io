@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined postdoc at <a href='https://www.chimica.unipd.it/'>  DiSC </a> in <a href='https://www.unipd.it/'> UNiPD </a>.
+I will be starting my postdoc journey at <a href='https://www.chimica.unipd.it/'>  DiSC </a> in <a href='https://www.unipd.it/'> UNiPD </a>, Italy. 🚀
