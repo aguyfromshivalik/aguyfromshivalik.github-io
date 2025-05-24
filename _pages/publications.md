@@ -6,7 +6,7 @@ description: # publications by categories in reversed chronological order. gener
 nav: true
 nav_order: 2
 ---
-
+Check <a href='https://scholar.google.com/citations?user=W15sff4AAAAJ&hl=en'> google scholar </a> for latest updates.
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
