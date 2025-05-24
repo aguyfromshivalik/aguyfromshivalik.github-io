@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Defended PhD thesis. (<a href='\assets\pdf\phd_final.pdf'> Slides </a>) 
+Defended PhD thesis. (<a href='\assets\pdf\phd_viva_voce.pdf'> Slides </a>) 
