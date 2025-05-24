@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Postdoc at <a href='https://www.chimica.unipd.it/'>DiSC UNiPD</a> with <a href='https://sites.google.com/view/sergio-rampino/home'> Dr. Sergio Rampino </a>
+subtitle: Postdoc at <a href='https://www.chimica.unipd.it/'> DiSC</a> in <a href='https://www.unipd.it/'> UNiPD </a> with <a href='https://sites.google.com/view/sergio-rampino/home'> Dr. Sergio Rampino </a>
 profile:
   align: right
   image: profile_pic.jpg
