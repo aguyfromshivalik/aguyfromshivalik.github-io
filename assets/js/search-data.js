@@ -43,7 +43,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-postdoc-at-disc-in-unipd",
+            },},{id: "news-defended-phd-thesis-slides",
+          title: 'Defended PhD thesis. ( Slides )',
+          description: "",
+          section: "News",},{id: "news-joined-postdoc-at-disc-in-unipd",
           title: 'Joined postdoc at   DiSC  in  UNiPD .',
           description: "",
           section: "News",},{id: "projects-project-1",
