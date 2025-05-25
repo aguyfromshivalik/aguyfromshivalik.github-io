@@ -276,7 +276,7 @@ scholar:
   last_name: # [Rawat]    Check what to write (Aj)
   first_name: # [Albert, A.]  # Check what to write (Aj)
 
-  style: https://github.com/citation-style-language/styles/blob/master/american-institute-of-physics.csl #apa
+  style: apa
   locale: en
 
   source: /_bibliography/
