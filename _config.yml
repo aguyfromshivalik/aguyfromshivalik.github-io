@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+# About section look: _layouts/about-liquid
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ajay
 middle_name: M.
